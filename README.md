@@ -5,4 +5,4 @@ Pytorch フレームワークを使用して実装されたホワイト ボッ�
 
 # 目录
 Layer  
-  ReduLayer.py-----a layer of ReduNet  
+--ReduLayer.py   a layer of ReduNet  
