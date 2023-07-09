@@ -7,4 +7,4 @@ Pytorch フレームワークを使用して実装されたホワイト ボッ�
 Layer  
 --ReduLayer.py   
 a layer of ReduNet  
-paper link:https://arxiv.org/abs/2105.10446  
+link:https://arxiv.org/abs/2105.10446  
